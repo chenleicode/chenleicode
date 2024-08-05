@@ -1,4 +1,4 @@
-## Hi there 👋
+## 个人简介 About Me
 
 <!--
 **chenlei0608/chenlei0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,5 +17,7 @@ Here are some ideas to get you started:
 
 你好，我是陈磊，一名前端工程师
 
-## 技术栈
+Hi, I'm Lei Chen, a front-end developer
+
+## 技术栈 Tech I Use
 HTML, CSS, JavaScript, TypeScript, Vue, Vite, VitePress, Axios, Less...
