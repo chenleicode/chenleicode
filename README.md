@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-你好，我是陈磊，一名前端工程师
+你好，我是陈磊，一名前端程序员
 
 Hi, I'm Lei Chen, a front-end developer
 
