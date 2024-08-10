@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 你好，我是陈磊，一名前端程序员
 
-Hi, I'm Lei Chen, a front-end developer
+Hi, I'm Chen Lei, a front-end developer
 
 ## 技术栈 Tech I Use
 HTML, CSS, JavaScript, TypeScript, Vue, Vite, VitePress, Axios, Less...
