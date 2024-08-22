@@ -15,9 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-你好，我是陈磊，一名前端程序员
+一名前端程序员，想要变有钱，想要诗和远方，想要这个世界更加民主自由公平，喜欢电影，喜欢台球，喜欢网上冲浪，欣赏有想法的、幽默的、会聊天的人。
 
-Hi, I'm Chen Lei, a front-end developer
-
-## 技术栈 Tech I Use
-HTML, CSS, JavaScript, TypeScript, Vue, Vite, VitePress, Axios, Less...
+A front-end developer who wants to become wealthy, poetry and distant places, a more democratic, free and fair world, enjoys movies, billiards, surfing the internet, and appreciates people with ideas, humor, and chat skills.
