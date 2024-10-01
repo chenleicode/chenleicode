@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-一名前端程序员，想要变有钱，想要诗和远方，想要这个世界更加民主自由公平，喜欢电影，喜欢台球，喜欢网上冲浪，欣赏有想法的、幽默的、善谈的人。
+一名前端程序员，想要变有钱，想要这个世界更加民主自由公平，喜欢电影，喜欢台球，喜欢网上冲浪，欣赏有想法的、有独立思考能力的，善谈的人。
 
-A front-end developer who wants money, poetry and distant places, a more democratic, free and fair world, enjoys movies, billiards, surfing the internet, and appreciates people with ideas, humor, and chatty.
+I'm a front-end developer who wants money, wants a more democratic, free and fair world, enjoys movies, billiards and surfing the internet, appreciates people who have ideas, think independently, and are good at talking.
