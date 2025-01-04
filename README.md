@@ -1,10 +1,10 @@
-# Hi there, I'm Chen Lei 👋
+### Hi there 👋
 
 一名前端程序员，想要变有钱，想要这个世界更加民主自由公平，喜欢电影，喜欢台球，喜欢网上冲浪，欣赏有想法的、有独立思考能力的，善谈的人。
 
 I'm a front-end developer who wants money, wants a more democratic, free and fair world, enjoys movies, billiards and surfing the internet, appreciates people who have ideas, think independently, and are good at talking.
 
-## Skills
+### Skills 🔧
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff)
@@ -17,7 +17,7 @@ I'm a front-end developer who wants money, wants a more democratic, free and fai
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
 
-## Connect with Me
+### Connect with Me
 
-- [Personal Website](https://chenlei0608.github.io/blog/)
-- [X](https://x.com/chenlei0608)
+- Email: chenlei2424@gmail.com
+- Twitter: [@chenlei0608](https://x.com/chenlei0608)
