@@ -1,20 +1,23 @@
-## 个人简介 About Me
-
-<!--
-**chenlei0608/chenlei0608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi there, I'm Chen Lei 👋
 
 一名前端程序员，想要变有钱，想要这个世界更加民主自由公平，喜欢电影，喜欢台球，喜欢网上冲浪，欣赏有想法的、有独立思考能力的，善谈的人。
 
 I'm a front-end developer who wants money, wants a more democratic, free and fair world, enjoys movies, billiards and surfing the internet, appreciates people who have ideas, think independently, and are good at talking.
+
+## Skills
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff)
+![Vue](https://img.shields.io/badge/Vue-4FC08D?logo=Vue.js&logoColor=fff)
+![Nuxt](https://img.shields.io/badge/Nuxt-00C58E?logo=Nuxt&logoColor=fff)
+![UnoCSS](https://img.shields.io/badge/UnoCSS-333333?logo=unocss&logoColor=fff)
+![Pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)
+![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
+![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
+
+## Connect with Me
+
+- [Personal Website](https://chenlei0608.github.io/blog/)
+- [X](https://x.com/chenlei0608)
