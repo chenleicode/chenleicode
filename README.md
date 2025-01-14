@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-一名前端程序员，想要变有钱，想要这个世界更加民主自由公平，喜欢电影，喜欢台球，喜欢网上冲浪，欣赏有想法的、有独立思考能力的，善谈的人。
+一名前端程序员，想要变有钱，想要这个世界更加民主自由公平，喜欢电影，喜欢台球，喜欢网上冲浪...
 
-I'm a front-end developer who wants money, wants a more democratic, free and fair world, enjoys movies, billiards and surfing the internet, appreciates people who have ideas, think independently, and are good at talking.
+I'm a front-end developer who wants money, wants a more democratic, free and fair world, enjoys movies, billiards and surfing the internet...
 
 ### Skills 🔧
 
