@@ -22,4 +22,4 @@ I'm a front-end developer who wants money, wants a more democratic, free and fai
 ### Connect with Me
 
 - Email: chenlei2424@gmail.com
-- Twitter: [@chenlei0608](https://x.com/chenlei0608)
+- Twitter: [@chenleicode](https://x.com/chenleicode)
