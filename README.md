@@ -14,6 +14,7 @@ I'm a front-end developer who wants money, wants a more democratic, free and fai
 ![Nuxt](https://img.shields.io/badge/Nuxt-00C58E?logo=Nuxt&logoColor=fff)
 ![UnoCSS](https://img.shields.io/badge/UnoCSS-333333?logo=unocss&logoColor=fff)
 ![Pnpm](https://img.shields.io/badge/pnpm-F69220?logo=pnpm&logoColor=fff)
+![Docker](https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
 ![VitePress](https://img.shields.io/badge/VitePress-646CFF?logo=VitePress&logoColor=fff)
