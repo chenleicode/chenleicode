@@ -19,8 +19,3 @@ I'm a front-end developer who wants money, wants a more democratic, free and fai
 ![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
 ![VitePress](https://img.shields.io/badge/VitePress-646CFF?logo=VitePress&logoColor=fff)
 ![Slidev](https://img.shields.io/badge/Slidev-3F9D89?logo=Slidev&logoColor=fff)
-
-### Connect with Me
-
-- Email: chenlei2424@gmail.com
-- X: [@chenleicode](https://x.com/chenleicode)
