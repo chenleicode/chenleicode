@@ -1,10 +1,10 @@
-### Hi there 👋
+### 👋 Hi there
 
 一名前端程序员，想要变有钱，想要这个世界更加民主自由公平，喜欢电影，喜欢台球，喜欢网上冲浪...
 
 I'm a front-end developer who wants money, wants a more democratic, free and fair world, enjoys movies, billiards and surfing the internet...
 
-### Skills 🛠️
+### 🛠️ Skills
 
 ![HTML](https://img.shields.io/badge/HTML-E34F26?logo=HTML5&logoColor=fff)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=CSS3&logoColor=fff)
