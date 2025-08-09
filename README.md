@@ -1,8 +1,6 @@
 ### 👋 Hi there
 
-一名前端程序员，想要变有钱，想要这个世界更加民主自由公平，喜欢电影，喜欢台球，喜欢网上冲浪...
-
-I'm a front-end developer who wants money, wants a more democratic, free and fair world, enjoys movies, billiards and surfing the internet...
+我叫陈磊，一名前端程序员，没有耀眼的学历，没有大厂工作经验，想要财务自由，想要网络自由，想要这个世界更加民主自由公平，喜欢电影，喜欢脱口秀，喜欢台球，喜欢网上冲浪。
 
 ### 🛠️ Skills
 
